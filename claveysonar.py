@@ -98,7 +98,7 @@ if page == "Inicio":
     st.title("🎵 Bienvenido a SonarClave")
     st.header("Para que sirvo")
     st.write("""
-    SonarClave es una herramienta innovadora diseñada para músicos y entusiastas del piano que desean explorar la armonía y la teoría musical de manera interactiva. Esta plataforma permite generar acordes de piano de forma sencilla, escuchar su sonido y visualizar un diagrama claro de las notas correspondientes. Gracias a esta combinación de funciones auditivas y visuales, los usuarios pueden comprender de manera práctica cómo se construyen los acordes y cómo se relacionan entre sí dentro de diferentes tonalidades. SonarClave resulta especialmente útil para quienes no tienen acceso a un piano físico, ya que ofrece una experiencia de aprendizaje completa y accesible desde cualquier dispositivo. Además, su enfoque interactivo fomenta la experimentación y la práctica constante, acelerando el proceso de aprendizaje y haciendo que la teoría musical sea mucho más intuitiva y divertida.
+    SonarClave soy una herramienta innovadora diseñada para músicos y entusiastas del piano que desean explorar la armonía y la teoría musical de manera interactiva. Esta plataforma permite generar acordes de piano de forma sencilla, escucha mi sonido y visualiza un diagrama claro de las notas correspondientes. Gracias a esta combinación de funciones auditivas y visuales, los usuarios pueden comprender de manera práctica cómo se construyen los acordes y cómo se relacionan entre sí dentro de diferentes tonalidades. SonarClave resulta especialmente útil para quienes no tienen acceso a un piano físico, ya que ofrece una experiencia de aprendizaje completa y accesible desde cualquier dispositivo. Además, su enfoque interactivo fomenta la experimentación y la práctica constante, acelerando el proceso de aprendizaje y haciendo que la teoría musical sea mucho más intuitiva y divertida.
     """)
 
     st.header("Usuario objetivo")
@@ -153,11 +153,15 @@ elif page == "Contacto":
     st.title("📞 Contacto")
     st.header("Integrantes del equipo")
     st.write("""
-    - Juan Pérez  
-    - María López  
-    - Carlos Sánchez  
-   
+    - Mepi Calculo calculadoras  
+    - yendrix martinez  
+    - El alambrito de cumpeo  
+    - Elbaginas0
+    - Oliver Gatiesa
+    
+
    
     Correo de contacto: Sonarclaveymusicologistica@gmail.com
 
     """)
+
